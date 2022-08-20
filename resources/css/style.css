@@ -43,22 +43,34 @@ form {
 
 #camp-photo {
     z-index: -1;
+    margin: auto;
+    border-radius: 25px;
 }
 
 #camp {
     position: relative;
     margin: auto;
+    background-color: white;
 }
 
 #camp-text {
     position: absolute;
     top: 25%;
-    left: 50%;
 }
 
 #copyright {
     color: gray;
     text-align: right;
+}
+
+#download {
+    color: aquamarine;
+}
+
+#logo {
+    margin: auto;
+    max-width: 75%;
+    max-height: 75%;
 }
 
 #phone {
