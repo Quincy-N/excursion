@@ -42,3 +42,7 @@ h4 {
     color: gray;
     text-align: right;
 }
+
+#intro {
+    margin: auto;
+}
