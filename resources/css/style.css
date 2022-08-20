@@ -33,30 +33,23 @@ h4, #download {
 
 video {
     display: block;
-    margin: auto
+    margin: 0 auto;
 }
 
 form {
     display: block;
-    margin: auto;
+    margin: 0 auto;
 }
 
 #camp-photo {
     z-index: -1;
-    margin: auto;
+    display: block;
+    margin: 0 auto;
     border-radius: 25px;
 }
 
-#camp {
-    position: relative;
-    margin: auto;
-    background-color: white;
-    padding: 10px;
-}
-
 #camp-text {
-    position: absolute;
-    top: 25%;
+    text-align: center;
 }
 
 #copyright {
@@ -76,5 +69,5 @@ form {
 
 #phone {
     display: block;
-    margin: auto;
+    margin: 0 auto;
 }
