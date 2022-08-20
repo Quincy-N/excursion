@@ -51,6 +51,7 @@ form {
     position: relative;
     margin: auto;
     background-color: white;
+    padding: 10px;
 }
 
 #camp-text {
