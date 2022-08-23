@@ -65,8 +65,11 @@ form {
     color: aquamarine;
 }
 
-#logo {
+#intro {
     display: block;
+}
+
+#logo {
     margin-left: 20px;
     max-width: 15%;
     max-height: 15%;
