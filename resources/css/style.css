@@ -62,7 +62,7 @@ form {
 
 #top-bar {
     display: block;
-    background-color: hsla(0, 0, 100, .2);
+    background-color: hsl(0, 0, 20);
 }
 
 #logo {
