@@ -31,10 +31,6 @@ h4, #download {
     text-align: center;
 }
 
-video {
-    margin: 0 auto;
-}
-
 form {
     display: flex;
     justify-content: center;
@@ -60,15 +56,21 @@ form {
     text-align: right;
 }
 
-#top-bar {
-    display: block;
+#logo-container {
+    width: 100vw;
+    height: 10vh;
     background-color: hsl(0, 0, 20);
 }
 
 #logo {
-    margin-left: 20px;
-    max-width: 15%;
-    max-height: 15%;
+    margin-left: 2%;
+    width: 25%;
+    height: auto;
+}
+
+#video-container {
+    display: flex;
+    justify-content: center;
 }
 
 #phone {
