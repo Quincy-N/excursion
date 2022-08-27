@@ -37,6 +37,19 @@ form {
     justify-content: center;
 }
 
+input[type=text] {
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 12px 20px;
+}
+
+input[type=submit] {
+    background-color: aquamarine;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
 #camp {
     margin-bottom: 20px;
 }
