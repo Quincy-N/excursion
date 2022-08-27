@@ -35,6 +35,7 @@ h4, #download {
 form {
     display: flex;
     justify-content: center;
+    height: 51px;
 }
 
 input[type=text] {
